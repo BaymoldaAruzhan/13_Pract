@@ -66,7 +66,6 @@ namespace _06November_13Pract
                 dic.Add(1, testc.ToString());
             }
         }
-
         static void Exmpl05()
         {
 
